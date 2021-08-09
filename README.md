@@ -15,6 +15,7 @@ Here is an unordered list of tech topics that I am interested in:
   - Game design/development
   - Usability/Accessibility
   - Technology & Mental Health
+  - VIM
   
 And some non-tech interests:
   - Veganism and Animal Liberation
