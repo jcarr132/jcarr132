@@ -3,7 +3,7 @@
 
 🟨 ⬜ 🟪 ⬛
 
-I'm an interdisciplinary technology professional with background in psychology and human-computer interaction. My main interest is in studying the complex and evolving relationships between people and the technology they use; how our needs shape the technologies which in turn shape us and our societies.
+I'm an interdisciplinary technology professional with background in psychology and human-computer interaction. My main interest is in studying the complex and evolving relationships between people and the technology they use; how our needs shape the technologies that in turn shape us and our societies.
 
 Here is an unordered list of tech topics that I am interested in:
   - Linux
