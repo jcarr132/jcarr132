@@ -5,7 +5,7 @@
 
 I'm an interdisciplinary technology professional with background in psychology and human-computer interaction. My main interest is in studying the complex and evolving relationships between people and the technology they use; how our needs shape the technologies that in turn shape us and our societies.
 
-Here is an unordered list of tech topics that I am interested in:
+Here's an unordered list of technology topics that I'm interested in:
   - Linux
   - Free/Libre Software movement  
   - Digital minimalism
